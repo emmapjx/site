@@ -1,1 +1,15 @@
-
+@charset"UTF-8";
+/*regra*/
+body{
+      background-color:purple;
+      color:pink
+      font-size:12pt;
+      font-family:arial;
+    }
+h1{ 
+  color:brown
+  }
+p{
+      color:brown;
+      text decortion:underline;
+}
