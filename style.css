@@ -1,15 +1,15 @@
 @charset"UTF-8";
 /*regra*/
 body{
-      background-color:#483D8B;
-      color:#4B0082;
+      background-color:#2D1F42;
+      color:#49326B;
       font-size:16pt;
       font-family:Arial;
     }
 h1{ 
-  color:black;
+  color:white;
   }
 p{
-      color:black;
+      color:white;
       text-decortion:underline;
 }
