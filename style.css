@@ -7,8 +7,8 @@ body{
       font-family: Arial;
     }
 h1{ 
-      border-width:medium;
-      border-style:solid;
+      border-width:thin;
+      border-style:inset;
       border-color:#d5d0db;
       color: #d5d0db;
   }
