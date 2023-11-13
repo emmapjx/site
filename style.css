@@ -7,6 +7,9 @@ body{
       font-family: Arial;
     }
 h1{ 
+      border-width:medium;
+      border-style:solid;
+      border-color:#d5d0db;
       color: #d5d0db;
   }
 p{
