@@ -8,17 +8,17 @@ body{
     }
       
 h1, h3 { 
-      border-width:thin;
-      border-style:inset;
-      border-color:#d5d0db;
+      font-family: Georgia;
       color: #d5d0db;
   }
 
 h1 {
-      font-size: 4rem;
+      font-size: 16px;
       text-align: center;
       color: #d5d0db
-      text-shadow: 2px 2px 10px white;
+      border-width:thin;
+      border-style:inset;
+      border-color:#d5d0db;
       
 p{
       color: #d5d0db;
