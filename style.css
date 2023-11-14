@@ -7,12 +7,19 @@ body{
       font-family: Arial;
     }
       
-h1, h2 { 
+h1, h3 { 
       border-width:thin;
       border-style:inset;
       border-color:#d5d0db;
       color: #d5d0db;
   }
+
+h1 {
+      font-size: 4rem;
+      text-align: center;
+      color: #d5d0db
+      text-shadow: 2px 2px 10px white;
+      
 p{
       color: #d5d0db;
       text-decortion:underline;
