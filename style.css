@@ -8,7 +8,6 @@ body{
     }
       
 h1, h2 { 
-      text-align: center;
       border-width:thin;
       border-style:inset;
       border-color:#d5d0db;
