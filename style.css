@@ -17,8 +17,8 @@ h1 {
       text-align: center;
       color: #d5d0db
       border-width:medium;
-      border-style:inset;
-      border-radius: 10px 20px 30px;
+      border-radius: 10px;
+      margin: 10px 10px 10px 10px;
       border-color:#d5d0db;
    }
       
