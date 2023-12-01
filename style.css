@@ -52,8 +52,10 @@ h1{
       color: #d5d0db
       border-width: medium;
       border-radius: 10px;
+      text-align: left;
   }
 h1, h3 { 
+      text-align: left;
       font-family: Georgia;
       color: #d5d0db;
   }
