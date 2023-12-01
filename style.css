@@ -10,20 +10,14 @@ body{
 .titulo{
     font-family: 'pacifico', cursive ;
     margin: 20px;
-    color: #ff642c;
-    background-color: #fad6cd;
+    color: #b976de;
+    background-color: #b976de;
     border-radius: 50px;
-}
-
-body{
-    background-image: url('fundo.jpg');
-    background-size: cover;
-    background-position: center;
 }
 
 nav{
     float: left;
-    background-color: #ff642c;
+    background-color: #191026;
     width: 450px;
     border-radius: 10px;
     margin: 10px 10px 10px 10px;
