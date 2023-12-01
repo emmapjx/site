@@ -18,6 +18,7 @@ h1 {
       color: #d5d0db
       border-width:medium;
       border-style:inset;
+      border-radius: 10px 20px 30px;
       border-color:#d5d0db;
    }
       
