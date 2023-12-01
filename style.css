@@ -15,7 +15,16 @@ header{
       display: flex;
       justify-content: space-between;
       align-itens: center;
-      
+      }
+
+header .logo{
+      color: #fff;
+      font-weight: 700;
+      text-decoration: none;
+      font-size: 2em;
+      text-transform: uppercase;
+      Letter-spacing: 2px;
+}
 
 .titulo{
       background-color: #8C76B3;
