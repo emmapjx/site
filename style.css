@@ -26,6 +26,22 @@ header .logo{
       Letter-spacing: 2px;
 }
 
+header ul{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+}
+
+header ul 1i{
+      List-style: none;
+      margin-left: 20px;
+}
+
+header ul li a{
+     text-decoration: none; padding: 6px 15px;
+     color: #fff;
+}
+
 .titulo{
       background-color: #8C76B3;
       width: 100px;
