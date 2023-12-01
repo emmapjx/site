@@ -6,6 +6,16 @@ body{
       font-size: 16pt;
       font-family: Arial;
     }
+header{
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      padding: 30px 100px;
+      display: flex;
+      justify-content: space-between;
+      align-itens: center;
+      
 
 .titulo{
       background-color: #8C76B3;
