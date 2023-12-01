@@ -6,62 +6,63 @@ body{
       font-size: 16pt;
       font-family: Arial;
     }
-header{
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      padding: 30px 100px;
-      display: flex;
-      justify-content: space-between;
-      align-itens: center;
-      z-index: 10000;
-      }
-
-header .logo{
-      color: #fff;
-      font-weight: 700;
-      text-decoration: none;
-      font-size: 2em;
-      text-transform: uppercase;
-      Letter-spacing: 2px;
-}
-
-header ul{
-      display: flex;
-      justify-content: center;
-      align-items: center;
-}
-
-header ul 1i{
-      List-style: none;
-      margin-left: 20px;
-}
-
-header ul li a{
-
-     text-decoration: none;
-     padding: 6px 15px;
-     color: #FFFFFF;
-     border-radius: 20px;
-}
-
-header ul li a:hover ,
-.active
-{
-      background: #FFFFFF;
-      color: purple;
-}
-
 
 .titulo{
-      background-color: #8C76B3;
-      width: 100px;
-      height: 100px;
-      font-size: 40px;
-      color: #d5d0db
-      border-width: medium;
-      border-radius: 10px;
+    font-family: 'pacifico', cursive ;
+    margin: 20px;
+    color: #ff642c;
+    background-color: #fad6cd;
+    border-radius: 50px;
+}
+
+body{
+    background-image: url('fundo.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+nav{
+    float: left;
+    background-color: #ff642c;
+    width: 450px;
+    border-radius: 10px;
+    margin: 10px 10px 10px 10px;
+}
+
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav a{
+    color: #fad6cd;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: #fff ;
+}
+
+#locais{
+    padding-top: 200px;
+}
+
+#carouselExampleAutoplaying img{
+    height: 500px;
+    width: 1000px;
+    object-fit: contain;
+}
+
+.card-group{
+    margin: 50px 20px 30px 20px;
+}
+
+.botao{
+    text-align: center;
+    margin: 50px 50px;
+}
+
 }
 h1{
       font-size: 40px;
