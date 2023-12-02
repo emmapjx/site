@@ -55,13 +55,13 @@ h1{
   }
 
 h3 { 
-      text-align: left;
+      text-align: center;
       font-family: Georgia;
       color: #d5d0db;
   }
 
 p{
-      text-align: left;
+      text-align: center;
       color: #d5d0db;
       text-decortion:underline;
 }
